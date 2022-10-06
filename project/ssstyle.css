@@ -1,0 +1,31 @@
+form {
+    width: 60%;
+    margin: 100px auto;
+    padding: 30px;
+    border: 1px solid #555;
+  }
+  input {
+    width: 100%;
+    border: 1px solid #f1e1e1;
+    display: block;
+    padding: 5px 10px;
+  }
+  button {
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: grey;
+    color: white;
+    display: block;
+  }
+  table {
+    width: 30%;
+    border-collapse: collapse;
+    margin: 40px auto;
+  }
+  th,
+  td {
+    height: 20px;
+    vertical-align: center;
+    border: 1px solid black;
+  }
